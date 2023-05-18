@@ -5,3 +5,6 @@ model
 model2
 modelMobileNet
 modelResNet
+.vscode
+__pycache__
+Mobile-App
